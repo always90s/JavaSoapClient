@@ -19,9 +19,9 @@
   
   <portType name="CORETransaction">
      <operation name="ABCServiceSubmissionAckRetrievalRequest">
-      <input message="tns:ABCServiceSubmissionAckRetrievalRequest" wsam:Action="http://interfaces.services.dhcs.ca.gov/CORETransaction/ABCServiceSubmissionAckRetrievalRequestRequest">
+      <input message="tns:ABCServiceSubmissionAckRetrievalRequest" wsam:Action="http://xxxxxxxxx/CORETransaction/ABCServiceSubmissionAckRetrievalRequestRequest">
     </input>
-      <output message="tns:ABCServiceSubmissionAckRetrievalRequestResponse" wsam:Action="http://interfaces.services.dhcs.ca.gov/CORETransaction/ABCServiceSubmissionAckRetrievalRequestResponse">
+      <output message="tns:ABCServiceSubmissionAckRetrievalRequestResponse" wsam:Action="http://xxxxxxxxx/CORETransaction/ABCServiceSubmissionAckRetrievalRequestResponse">
     </output>
     </operation>
     
